@@ -2,13 +2,6 @@
 
 A custom, image-centric theme for [Ghost](http://github.com/tryghost/ghost/). Made for publishers and portfolios with plenty of graphics to show off to the world. Completely free and fully responsive, released under the MIT license.
 
-**Demo: https://london.ghost.io**
-
-&nbsp;
-
-![london](https://user-images.githubusercontent.com/120485/50552024-84837400-0c82-11e9-8f1d-cf25962c7e62.jpg)
-
-
 &nbsp;
 
 # First time using a Ghost theme?
