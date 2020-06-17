@@ -1,7 +1,6 @@
-# London
+# London: Me Edition
 
-A custom, image-centric theme for [Ghost](http://github.com/tryghost/ghost/). Made for publishers and portfolios with plenty of graphics to show off to the world. Completely free and fully responsive, released under the MIT license.
-
+Learning about templating, bundling, and REST APIs as I desparately escape using WordPress for everything.
 &nbsp;
 
 # First time using a Ghost theme?
